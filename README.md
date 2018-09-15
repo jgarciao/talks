@@ -5,7 +5,7 @@ Repo for all my talks (slides)
 
 | Date | Title | By | Conference | Links |
 | :--: | :---- | :- | :--------- | :---: |
-|Jul 06| Flathub - An app store and build service for flatpak applications | Robert McQueen & Jorge García | [GUADEC 2018](https://2018.guadec.org/pages/talks-and-events.html#abstract-41-flathub__an_app_store_and_build_service_for) | [Slides](https://github.com/jgarciao/talks/raw/master/2018-07%20-%20GUADEC%20-%20Flathub%20-%20An%20app%20store%20and%20build%20service%20for%20flatpak%20applications/GUADEC-2018%20-%20Flathub%2C%20An%20App%20store%20and%20build%20service%20for%20flatpak%20applications.pdf) | 
+|Jul 06| Flathub - An app store and build service for flatpak applications | Robert McQueen & Jorge García | [GUADEC 2018](https://2018.guadec.org/pages/talks-and-events.html#abstract-41-flathub__an_app_store_and_build_service_for) | [Slides](https://github.com/jgarciao/talks/raw/master/2018-07%20-%20GUADEC%20-%20Flathub%20-%20An%20app%20store%20and%20build%20service%20for%20flatpak%20applications/GUADEC-2018%20-%20Flathub%2C%20An%20App%20store%20and%20build%20service%20for%20flatpak%20applications.pdf) / [Video](https://youtu.be/Hga20qlyknw)| 
 
 
 ## 2017
